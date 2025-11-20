@@ -1,2 +1,2 @@
-# SmartCredit-Analytics-Segmentation-and-Scoring
-A machine learning project that predicts customer creditworthiness and segments them based on financial behavior. It uses data preprocessing, feature engineering, and predictive modeling to assess credit risk, helping financial institutions make data-driven lending and marketing decisions efficiently.
+# Credit-Scoring-and-segmentation-
+Credit scoring and segmentation evaluate creditworthiness and group individuals or businesses based on credit profiles. It helps assess the likelihood of debt repayment, enabling financial institutions to make informed lending decisions and manage credit risk. Learn how to calculate credit scores and segment customers effectively.
